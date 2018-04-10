@@ -1,3 +1,8 @@
+warunki([]).
+warunki([Glowa|Ogon]):-
+	number(Glowa),
+	warunki(Ogon).
+
 dlugosc(Lista,Wynik):-
 	dlugosc(Lista,Wynik,0).
 	
@@ -15,6 +20,7 @@ suma([Glowa|Ogon],Wynik,Acc):-
 	suma(Ogon,Wynik,Acc1).
 
 srednia(Lista,Wynik):-
+	warunki(Lista),
 	dlugosc(Lista,Dlugosc),
 	suma(Lista,Suma),
 	Wynik is Suma/Dlugosc.
