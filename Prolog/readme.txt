@@ -9,3 +9,7 @@
 9: Fibonacci (iteracyjnie).
 10: Nalezy.
 11: Polacz.
+12: Dlugosc listy (rekurencyjnie).
+13: Dlugosc listy (iteracyjnie).
+14: Odwróć (rekurencyjnie).
+15: Odwróć (iteracyjnie).
