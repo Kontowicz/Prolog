@@ -1,4 +1,4 @@
-obroc([],Lista,Lista).
+obroc([],Lista,Lista):-!.
 
 obroc([Glowa|Lista],Wynik):-
 	obroc(Lista,[Glowa],Wynik).

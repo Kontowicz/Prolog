@@ -13,3 +13,10 @@
 13: Dlugosc listy (iteracyjnie).
 14: Odwróć (rekurencyjnie).
 15: Odwróć (iteracyjnie).
+16: Usuwanie ujemnych z listy (rekurencyjnie).
+17: Usuwanie ujemnych z listy (iteracyjnie).
+18: Wstaw na poczatek listy.
+19: Przesuwanie na poczatek (rekurencyjnie).
+20: Przesuwanie na poczatek (iteracyjnie). 
+21: Przesuwanie na koniec (rekurencyjnie).
+22: Przesuwanie na koniec (iteracyjnie). 
