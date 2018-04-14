@@ -20,3 +20,5 @@
 20: Przesuwanie na poczatek (iteracyjnie). 
 21: Przesuwanie na koniec (rekurencyjnie).
 22: Przesuwanie na koniec (iteracyjnie). 
+23: Łączanie postortowanych list w jedną listę (rekurencyjnie).
+24: Łączanie postortowanych list w jedną listę (iteracyjnie).
