@@ -22,3 +22,5 @@
 22: Przesuwanie na koniec (iteracyjnie). 
 23: Łączanie postortowanych list w jedną listę (rekurencyjnie).
 24: Łączanie postortowanych list w jedną listę (iteracyjnie).
+25. Wyciągnięcie n-tego wyrazu listy.
+26. Otoczenie elementu na liście, 2 z prawej, 2 z lewej. otoczenie([0,1,2,3,4,5,6],2,X). X=[0,1,2,3,4]
