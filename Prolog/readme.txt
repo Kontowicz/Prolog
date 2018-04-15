@@ -28,3 +28,5 @@
 28: Akceptor języka b(aa|b)*|ab(a|ba)*.
 29: Minimum listy.
 30: Maksimum listy.
+31: Minimum na koniec listy.
+32. Przesuwanie ujemnych na poczatek (rekurencyjnie).
