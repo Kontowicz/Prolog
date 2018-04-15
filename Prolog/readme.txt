@@ -24,3 +24,7 @@
 24: Łączanie postortowanych list w jedną listę (iteracyjnie).
 25. Wyciągnięcie n-tego wyrazu listy.
 26. Otoczenie elementu na liście, 2 z prawej, 2 z lewej. otoczenie([0,1,2,3,4,5,6],2,X). X=[0,1,2,3,4]
+27: Otoczenie elementu na liście, otoczenie([0,1,2,3,4,5,6],3,X,Y). X=2,Y=4.
+28: Akceptor języka b(aa|b)*|ab(a|ba)*.
+29: Minimum listy.
+30: Maksimum listy.
