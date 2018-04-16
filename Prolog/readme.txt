@@ -31,3 +31,4 @@
 31: Minimum na koniec listy.
 32. Przesuwanie ujemnych na poczatek (rekurencyjnie).
 33: Dzielenie listy na dwie o tej samej długości.
+34: NWD dwóch liczb.
