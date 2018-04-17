@@ -33,3 +33,4 @@
 33: Dzielenie listy na dwie o tej samej długości.
 34: NWD dwóch liczb.
 35: Usuwanie powtórzeń z listy.
+36: Usuwanie wskazanego elementu z listy (rekurencyjnie).
