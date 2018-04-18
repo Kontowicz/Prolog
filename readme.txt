@@ -34,3 +34,5 @@
 34: NWD dwóch liczb.
 35: Usuwanie powtórzeń z listy.
 36: Usuwanie wskazanego elementu z listy (rekurencyjnie).
+37: Potęgowanie iteracyjnie.
+38: Modulo
