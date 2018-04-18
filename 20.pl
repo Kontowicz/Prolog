@@ -1,6 +1,3 @@
-przesun([],[]).
-przesun([X],[X]).
-
 przesun(Lista,Wynik):-
 	przesun(Lista,[],Wynik).
 	
