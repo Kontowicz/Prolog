@@ -16,6 +16,6 @@ dzielniki(Liczba,Dzielnik,Acc,Wynik):-
 dzielniki(Liczba,Dzielnik,Acc,Wynik):-
 	Liczba>Dzielnik,
 	Dzielnik1 is Dzielnik+1,
-	dzielniki(Liczba,Dzielnik1,Acc,Wynik).
+	dzielniki(Liczba,Dzielnik1,Acc,Wynik),!.
 	
 dzielniki(Liczba,Liczba,Wynik,Wynik):-!.
