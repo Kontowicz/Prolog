@@ -36,3 +36,5 @@
 36: Usuwanie wskazanego elementu z listy (rekurencyjnie).
 37: Potęgowanie iteracyjnie.
 38: Modulo
+39. Wypisanie dzielników liczby.
+40: Wyprowadzenie dzielników liczby na listę.
