@@ -19,7 +19,7 @@
 19: [Przesuwanie na poczatek (rekurencyjnie).](https://github.com/Kontowicz/Prolog/blob/master/19.pl)<br>
 20: [Przesuwanie na poczatek (iteracyjnie).](https://github.com/Kontowicz/Prolog/blob/master/20.pl)<br>
 21: [Przesuwanie na koniec (rekurencyjnie).](https://github.com/Kontowicz/Prolog/blob/master/21.pl)<br>
-22: [Przesuwanie na koniec (iteracyjnie).] (https://github.com/Kontowicz/Prolog/blob/master/22.pl)<br>
+22: [Przesuwanie na koniec (iteracyjnie).](https://github.com/Kontowicz/Prolog/blob/master/22.pl)<br>
 23: [Łączanie postortowanych list w jedną listę (rekurencyjnie).](https://github.com/Kontowicz/Prolog/blob/master/23.pl)<br>
 24: [Łączanie postortowanych list w jedną listę (iteracyjnie).](https://github.com/Kontowicz/Prolog/blob/master/24.pl)<br>
 25. [Wyciągnięcie n-tego wyrazu listy.](https://github.com/Kontowicz/Prolog/blob/master/25.pl)<br>
