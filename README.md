@@ -1,11 +1,11 @@
-1: [Relacje w rodzinie.](https://github.com/Kontowicz/Prolog/blob/master/1.pl)
-2: [Silnia (rekurencyjnie).](https://github.com/Kontowicz/Prolog/blob/master/2.pl)
-3: [Parzysta.](https://github.com/Kontowicz/Prolog/blob/master/3.pl)
-4: [Nieparzysta.](https://github.com/Kontowicz/Prolog/blob/master/4.pl)
-5: [Podzielna przez 3.](https://github.com/Kontowicz/Prolog/blob/master/5.pl)
-6: [Fibonacci (rekurencyjnie).](https://github.com/Kontowicz/Prolog/blob/master/6.pl)
-7: [Potęgowanie (rekurencyjnie).](/master/1.pl)
-8: [Silnia (iteracyjnie).]
+1: [Relacje w rodzinie.](https://github.com/Kontowicz/Prolog/blob/master/1.pl)<br>
+2: [Silnia (rekurencyjnie).](https://github.com/Kontowicz/Prolog/blob/master/2.pl)<br>
+3: [Parzysta.](https://github.com/Kontowicz/Prolog/blob/master/3.pl)<br>
+4: [Nieparzysta.](https://github.com/Kontowicz/Prolog/blob/master/4.pl)<br>
+5: [Podzielna przez 3.](https://github.com/Kontowicz/Prolog/blob/master/5.pl)<br>
+6: [Fibonacci (rekurencyjnie).](https://github.com/Kontowicz/Prolog/blob/master/6.pl)<br>
+7: [Potęgowanie (rekurencyjnie).](/master/1.pl)<br>
+8: [Silnia (iteracyjnie).]<br>
 9: [Fibonacci (iteracyjnie).]
 10: [Nalezy.]
 11: [Polacz.]
